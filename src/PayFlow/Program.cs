@@ -51,6 +51,6 @@ if (app.Environment.IsDevelopment())
 
 app.MapControllers();
 
-builder.WebHost.UseUrls("http://localhost:8080");
+builder.WebHost.UseUrls(builder.Configuration.GetValue<string>("ASPNETCORE_URLS"));
 
 app.Run();
