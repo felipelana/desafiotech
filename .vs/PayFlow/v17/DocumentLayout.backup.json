@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\DesafioTech\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6A5F6EAD-5D5C-4A65-B212-7E2A3CF59B88}|src\\PayFlow\\PayFlow.csproj|c:\\desafiotech\\src\\payflow\\controllers\\paymentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A5F6EAD-5D5C-4A65-B212-7E2A3CF59B88}|src\\PayFlow\\PayFlow.csproj|solutionrelative:src\\payflow\\controllers\\paymentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A5F6EAD-5D5C-4A65-B212-7E2A3CF59B88}|src\\PayFlow\\PayFlow.csproj|c:\\desafiotech\\src\\payflow\\services\\fastpayservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A5F6EAD-5D5C-4A65-B212-7E2A3CF59B88}|src\\PayFlow\\PayFlow.csproj|solutionrelative:src\\payflow\\services\\fastpayservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A5F6EAD-5D5C-4A65-B212-7E2A3CF59B88}|src\\PayFlow\\PayFlow.csproj|c:\\desafiotech\\src\\payflow\\services\\securepayservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A5F6EAD-5D5C-4A65-B212-7E2A3CF59B88}|src\\PayFlow\\PayFlow.csproj|solutionrelative:src\\payflow\\services\\securepayservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A5F6EAD-5D5C-4A65-B212-7E2A3CF59B88}|src\\PayFlow\\PayFlow.csproj|c:\\desafiotech\\src\\payflow\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A5F6EAD-5D5C-4A65-B212-7E2A3CF59B88}|src\\PayFlow\\PayFlow.csproj|solutionrelative:src\\payflow\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A5F6EAD-5D5C-4A65-B212-7E2A3CF59B88}|src\\PayFlow\\PayFlow.csproj|c:\\desafiotech\\src\\payflow\\models\\paymentresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A5F6EAD-5D5C-4A65-B212-7E2A3CF59B88}|src\\PayFlow\\PayFlow.csproj|solutionrelative:src\\payflow\\models\\paymentresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A5F6EAD-5D5C-4A65-B212-7E2A3CF59B88}|src\\PayFlow\\PayFlow.csproj|c:\\desafiotech\\src\\payflow\\models\\paymentrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A5F6EAD-5D5C-4A65-B212-7E2A3CF59B88}|src\\PayFlow\\PayFlow.csproj|solutionrelative:src\\payflow\\models\\paymentrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A5F6EAD-5D5C-4A65-B212-7E2A3CF59B88}|src\\PayFlow\\PayFlow.csproj|c:\\desafiotech\\src\\payflow\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6A5F6EAD-5D5C-4A65-B212-7E2A3CF59B88}|src\\PayFlow\\PayFlow.csproj|solutionrelative:src\\payflow\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A5F6EAD-5D5C-4A65-B212-7E2A3CF59B88}|src\\PayFlow\\PayFlow.csproj|c:\\desafiotech\\src\\payflow\\services\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A5F6EAD-5D5C-4A65-B212-7E2A3CF59B88}|src\\PayFlow\\PayFlow.csproj|solutionrelative:src\\payflow\\services\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A5F6EAD-5D5C-4A65-B212-7E2A3CF59B88}|src\\PayFlow\\PayFlow.csproj|c:\\desafiotech\\src\\payflow\\services\\ipaymentprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A5F6EAD-5D5C-4A65-B212-7E2A3CF59B88}|src\\PayFlow\\PayFlow.csproj|solutionrelative:src\\payflow\\services\\ipaymentprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A5F6EAD-5D5C-4A65-B212-7E2A3CF59B88}|src\\PayFlow\\PayFlow.csproj|c:\\desafiotech\\src\\payflow\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6A5F6EAD-5D5C-4A65-B212-7E2A3CF59B88}|src\\PayFlow\\PayFlow.csproj|solutionrelative:src\\payflow\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FastPayService.cs",
+              "DocumentMoniker": "C:\\DesafioTech\\src\\PayFlow\\Services\\FastPayService.cs",
+              "RelativeDocumentMoniker": "src\\PayFlow\\Services\\FastPayService.cs",
+              "ToolTip": "C:\\DesafioTech\\src\\PayFlow\\Services\\FastPayService.cs",
+              "RelativeToolTip": "src\\PayFlow\\Services\\FastPayService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T21:54:09.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IPaymentProvider.cs",
+              "DocumentMoniker": "C:\\DesafioTech\\src\\PayFlow\\Services\\IPaymentProvider.cs",
+              "RelativeDocumentMoniker": "src\\PayFlow\\Services\\IPaymentProvider.cs",
+              "ToolTip": "C:\\DesafioTech\\src\\PayFlow\\Services\\IPaymentProvider.cs",
+              "RelativeToolTip": "src\\PayFlow\\Services\\IPaymentProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T21:54:07.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PaymentService.cs",
+              "DocumentMoniker": "C:\\DesafioTech\\src\\PayFlow\\Services\\PaymentService.cs",
+              "RelativeDocumentMoniker": "src\\PayFlow\\Services\\PaymentService.cs",
+              "ToolTip": "C:\\DesafioTech\\src\\PayFlow\\Services\\PaymentService.cs",
+              "RelativeToolTip": "src\\PayFlow\\Services\\PaymentService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwCQAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T21:51:33.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SecurePayService.cs",
+              "DocumentMoniker": "C:\\DesafioTech\\src\\PayFlow\\Services\\SecurePayService.cs",
+              "RelativeDocumentMoniker": "src\\PayFlow\\Services\\SecurePayService.cs",
+              "ToolTip": "C:\\DesafioTech\\src\\PayFlow\\Services\\SecurePayService.cs",
+              "RelativeToolTip": "src\\PayFlow\\Services\\SecurePayService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T21:18:01.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PaymentResponse.cs",
+              "DocumentMoniker": "C:\\DesafioTech\\src\\PayFlow\\Models\\PaymentResponse.cs",
+              "RelativeDocumentMoniker": "src\\PayFlow\\Models\\PaymentResponse.cs",
+              "ToolTip": "C:\\DesafioTech\\src\\PayFlow\\Models\\PaymentResponse.cs",
+              "RelativeToolTip": "src\\PayFlow\\Models\\PaymentResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T21:12:47.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PaymentRequest.cs",
+              "DocumentMoniker": "C:\\DesafioTech\\src\\PayFlow\\Models\\PaymentRequest.cs",
+              "RelativeDocumentMoniker": "src\\PayFlow\\Models\\PaymentRequest.cs",
+              "ToolTip": "C:\\DesafioTech\\src\\PayFlow\\Models\\PaymentRequest.cs",
+              "RelativeToolTip": "src\\PayFlow\\Models\\PaymentRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T21:12:44.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PaymentsController.cs",
+              "DocumentMoniker": "C:\\DesafioTech\\src\\PayFlow\\Controllers\\PaymentsController.cs",
+              "RelativeDocumentMoniker": "src\\PayFlow\\Controllers\\PaymentsController.cs",
+              "ToolTip": "C:\\DesafioTech\\src\\PayFlow\\Controllers\\PaymentsController.cs",
+              "RelativeToolTip": "src\\PayFlow\\Controllers\\PaymentsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAgwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T21:03:34.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\DesafioTech\\src\\PayFlow\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "src\\PayFlow\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\DesafioTech\\src\\PayFlow\\Properties\\launchSettings.json",
+              "RelativeToolTip": "src\\PayFlow\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-07T20:46:19.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\DesafioTech\\src\\PayFlow\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\PayFlow\\appsettings.json",
+              "ToolTip": "C:\\DesafioTech\\src\\PayFlow\\appsettings.json",
+              "RelativeToolTip": "src\\PayFlow\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-07T20:46:08.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\DesafioTech\\src\\PayFlow\\Program.cs",
+              "RelativeDocumentMoniker": "src\\PayFlow\\Program.cs",
+              "ToolTip": "C:\\DesafioTech\\src\\PayFlow\\Program.cs",
+              "RelativeToolTip": "src\\PayFlow\\Program.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAACAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T20:40:03.745Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

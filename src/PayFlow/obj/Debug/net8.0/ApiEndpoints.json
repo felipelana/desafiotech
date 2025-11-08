@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "PayFlow.Controllers.PaymentsController",
+    "Method": "Get",
+    "RelativePath": "Payments",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PayFlow.Controllers.PaymentsController",
+    "Method": "Post",
+    "RelativePath": "Payments",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "PayFlow.Models.PaymentRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
